@@ -33,7 +33,7 @@ To merge changes from branch2 into branch1
 
 ### Remote repository with task
 
-1. Clone this repository
+1. Clone this repository `https://github.com/xtrsys/git-demo.git`
 2. Make a new branch with following naming `features/your_name_first_letter_of_last_name`
 3. Add new file to repository and commit it
 4. Create a pull request to merge your branch into `master`
